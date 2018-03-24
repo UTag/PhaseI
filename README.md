@@ -5,7 +5,8 @@
 ## UTag - A Crowdsourcing Tags Tool
 
 <br>
-![](info/autumn.png)<br>
+![](info/autumn.png)
+<br>
 ## Group Autumn
 <br>
 <br>
